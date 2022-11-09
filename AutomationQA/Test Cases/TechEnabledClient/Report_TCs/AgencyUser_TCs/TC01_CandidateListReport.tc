@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TechEnable-AgencyReport</description>
+   <name>TC01_CandidateListReport</name>
+   <tag>AgencyLoginReport</tag>
+   <comment></comment>
+   <testCaseGuid>8cdefcc2-3635-4178-96ad-83a34491aa58</testCaseGuid>
+</TestCaseEntity>

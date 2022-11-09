@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Open Jobs</name>
+   <tag></tag>
+   <elementGuidId>6c212ec2-0713-41a1-8b63-a8de302e78c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ctl00_MenuUserCntrl1_RadMenu1']/ul/li[2]/div/ul/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0f7525c7-3593-4853-9693-dbf11eab85ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rmLink</value>
+      <webElementGuid>a5a3ad5e-4740-414f-b7c9-b9c055d34f9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>CandidateOrders.aspx</value>
+      <webElementGuid>bf89b9b8-0a1e-47fb-b45d-49280ece738e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Open Jobs</value>
+      <webElementGuid>d8c17d73-1967-4dc0-bf37-900232f80575</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_MenuUserCntrl1_RadMenu1&quot;)/ul[@class=&quot;rmRootGroup rmRoundedCorners rmShadows rmHorizontal&quot;]/li[@class=&quot;rmItem rmLast rmExpanded&quot;]/div[@class=&quot;rmSlide&quot;]/ul[@class=&quot;rmVertical rmGroup rmLevel1&quot;]/li[@class=&quot;rmItem&quot;]/a[@class=&quot;rmLink&quot;]</value>
+      <webElementGuid>1382059a-780e-485b-8653-ed21c8476f7c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_MenuUserCntrl1_RadMenu1']/ul/li[2]/div/ul/li[2]/a</value>
+      <webElementGuid>0390c9d2-0bba-4c97-987f-82b71b2ff978</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Open Jobs')]</value>
+      <webElementGuid>0ea89d59-4ed4-4efe-ba35-f82d2ca92646</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Availability'])[1]/following::a[1]</value>
+      <webElementGuid>c9a0c98e-4305-48fe-936b-4e08d75154ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Candidate'])[1]/following::a[2]</value>
+      <webElementGuid>343c3097-e88c-4027-95cb-0d767ff2eece</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TimeSheet'])[1]/preceding::a[1]</value>
+      <webElementGuid>5ad1e251-4abd-4e74-a0d2-fb74953175e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[1]/preceding::a[2]</value>
+      <webElementGuid>5fb62ee7-9afb-4bb5-bae8-181fa4071eaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Open Jobs']/parent::*</value>
+      <webElementGuid>3bedb83a-f9fe-42c1-8f52-6b4b34e7851f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'CandidateOrders.aspx')]</value>
+      <webElementGuid>fed57067-670c-41df-958d-b6652a958900</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/ul/li[2]/a</value>
+      <webElementGuid>5fc30b5c-c850-48cc-bcda-a1b5407b1266</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'CandidateOrders.aspx' and (text() = 'Open Jobs' or . = 'Open Jobs')]</value>
+      <webElementGuid>2a160824-fd6a-4068-ac3d-7bc6f22a6697</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

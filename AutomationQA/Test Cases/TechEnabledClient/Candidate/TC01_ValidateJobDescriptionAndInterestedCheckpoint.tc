@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case validates job ID descriptions after candidate login.</description>
+   <name>TC01_ValidateJobDescriptionAndInterestedCheckpoint</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8b93323c-eb77-4640-acc0-4710bc1943e6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>73ad58df-a0a3-4aa1-9acb-3ddf370d8067</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'326'</defaultValue>
+      <description></description>
+      <id>73ad58df-a0a3-4aa1-9acb-3ddf370d8067</id>
+      <masked>false</masked>
+      <name>jobID</name>
+   </variable>
+</TestCaseEntity>

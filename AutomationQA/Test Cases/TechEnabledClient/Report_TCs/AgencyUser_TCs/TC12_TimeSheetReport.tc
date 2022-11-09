@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC12_TimeSheetReport</name>
+   <tag>AgencyLogin</tag>
+   <comment></comment>
+   <testCaseGuid>b4c90728-5df1-44ac-86d4-e8765607eb4a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5c3dcecc-2a12-4a44-b96f-cb684c2e1584</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9ad361a6-4733-475d-a5c0-87bc8e9474e5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'01/02/2022'</defaultValue>
+      <description></description>
+      <id>5c3dcecc-2a12-4a44-b96f-cb684c2e1584</id>
+      <masked>false</masked>
+      <name>startDate</name>
+   </variable>
+   <variable>
+      <defaultValue>'07/16/2022'</defaultValue>
+      <description></description>
+      <id>9ad361a6-4733-475d-a5c0-87bc8e9474e5</id>
+      <masked>false</masked>
+      <name>endDate</name>
+   </variable>
+</TestCaseEntity>

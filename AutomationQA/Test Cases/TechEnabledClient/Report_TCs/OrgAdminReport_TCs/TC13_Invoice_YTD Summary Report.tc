@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TechEnable Services--OrgAdmin</description>
+   <name>TC13_Invoice_YTD Summary Report</name>
+   <tag>OrgAdminReport</tag>
+   <comment></comment>
+   <testCaseGuid>65c20bb9-ae8f-44ec-a7ce-4022320a5fa0</testCaseGuid>
+</TestCaseEntity>

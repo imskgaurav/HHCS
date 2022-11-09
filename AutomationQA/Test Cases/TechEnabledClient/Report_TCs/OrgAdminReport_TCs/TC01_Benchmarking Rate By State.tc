@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TechEnableServices</description>
+   <name>TC01_Benchmarking Rate By State</name>
+   <tag>OrgAdminReport</tag>
+   <comment></comment>
+   <testCaseGuid>f1bf98d9-772a-4476-9fc9-d47ed46ef4a7</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TechenableServices : orgAdmin login</description>
+   <name>TC23_Labor_HeadCount_Report</name>
+   <tag>orgAdminReport</tag>
+   <comment></comment>
+   <testCaseGuid>bb8ebb18-32bb-467b-b858-95442659b164</testCaseGuid>
+</TestCaseEntity>

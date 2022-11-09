@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TechEnable Services- OrgAdmin</description>
+   <name>TC30_OrganizationReport_Missing Kronos IDs Report</name>
+   <tag>OrgAdminReport</tag>
+   <comment></comment>
+   <testCaseGuid>b903d27b-f032-4934-923d-a6077aeff7c0</testCaseGuid>
+</TestCaseEntity>

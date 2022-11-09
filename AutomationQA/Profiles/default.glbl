@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>TC_NAME</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://einstein2.net/CNEVMSprelive/Account/login.aspx'</initValue>
+      <name>URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Support@yopmail.com'</initValue>
+      <name>ORG_USER</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'j5uOx7uCE7c='</initValue>
+      <name>ORG_PW</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'karma@yopmail.com'</initValue>
+      <name>AGC_USER</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'cvW8qx4B2o3F4VwP/kNsqA=='</initValue>
+      <name>AGC_PW</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'VMS@e2.com'</initValue>
+      <name>VMS_USER</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'j5uOx7uCE7c='</initValue>
+      <name>VMS_PW</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'jdbc:sqlserver://10.20.1.4:1433;databaseName=Norton_QA_Automation'</initValue>
+      <name>DB_CONNECTION_URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'vmsqa'</initValue>
+      <name>DB_USER</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'lag66Bk2evGZnxbfT7XO9Q=='</initValue>
+      <name>DB_PASS</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Norton_QA_Automation_2022_05_20_13_43_46.bak</description>
+      <initValue>''</initValue>
+      <name>DB_BACKUP_NAME</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>was empty</description>
+      <initValue>''</initValue>
+      <name>E2E_JOB_TITLE</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>was empty</description>
+      <initValue>''</initValue>
+      <name>E2E_JOB_ID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>was empty</description>
+      <initValue>'10/10/2022'</initValue>
+      <name>E2E_EFFECTIVE_DATE_FOR_OVERLAP</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Smoketest, Candidate'</initValue>
+      <name>E2E_CANDIDATE_NAME</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>E2E_INVOICE_NUMBER</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'-Trusted Health, Inc.'</initValue>
+      <name>CLIENT_NAME</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

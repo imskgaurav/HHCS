@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Candidate is Having same Overlappping Date on which is=ts Onboarded for Location L1.  
+Now Create a New Job at location L2 : The Job Should be display to the OnBorded Candidate :</description>
+   <name>TC05_TravelerJob_OverLap_DifferentLocation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac3aa65a-32ad-4779-8839-a04687e22578</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>98368aed-2f02-43de-afe7-3e6ba7dd9c02</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ca8a4ec9-c77d-4767-b1ae-0b709c5f0bb4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'373'</defaultValue>
+      <description></description>
+      <id>98368aed-2f02-43de-afe7-3e6ba7dd9c02</id>
+      <masked>false</masked>
+      <name>jobID</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ca8a4ec9-c77d-4767-b1ae-0b709c5f0bb4</id>
+      <masked>false</masked>
+      <name>variable_0</name>
+   </variable>
+</TestCaseEntity>

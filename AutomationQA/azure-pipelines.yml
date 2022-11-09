@@ -1,0 +1,39 @@
+# Starter pipeline
+# Start with a minimal pipeline that you can customize to build and deploy your code.
+# Add steps that build, run tests, deploy, and more:
+# https://aka.ms/yaml
+
+
+trigger:
+- completeTC-CICD
+
+pool:
+  name: Default
+  demands:
+   - agent.name -equals CustomAgent
+
+steps:
+
+- script: echo Hello, world!
+  displayName: 'Run a one-line script'
+
+- script: |
+    echo Add other tasks to build, test, and deploy your project.
+    echo See https://aka.ms/yaml
+  displayName: 'Run a multi-line script'
+  retryCountOnTaskFailure: 2
+
+- task: katalonTask@1
+  inputs:
+    version: '8.3.0'
+    executeArgs: '-testSuitePath="Test Suites/SmokeTest" -browserType="Chrome" -apiKey="f2538ad9-91c5-471b-ad09-c269ceade655"   -sendMail="ramesh.veeranallaiah@hallmarkhcs.com" --config -webui.autoUpdateDrivers=true -retry=1'
+    xvfbConfiguration: '-a -n 0 -s "-screen 0 1024x768x24"'
+  condition: succeededOrFailed()
+  timeoutInMinutes: 0
+    
+- task: PublishTestResults@2
+  inputs:
+    testResultsFormat: 'JUnit'
+    testResultsFiles: 'Reports/**/SmokeTest/**/*.xml'
+  condition: succeededOrFailed()
+

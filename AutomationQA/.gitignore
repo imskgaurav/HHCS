@@ -1,0 +1,19 @@
+.gradle
+
+bin
+
+Reports
+Screenshot
+Libs
+output
+!output/.gitkeep
+build
+.classpath
+.project
+.cache
+.settings
+*/.DS_Store
+settings/internal/
+Scripts/sanbox/
+Test Cases/sanbox/
+.DS_Store

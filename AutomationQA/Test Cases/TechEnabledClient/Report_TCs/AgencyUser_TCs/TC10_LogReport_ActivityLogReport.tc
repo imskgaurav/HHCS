@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC10_LogReport_ActivityLogReport</name>
+   <tag>AgencyLogin</tag>
+   <comment></comment>
+   <testCaseGuid>5e10664a-f113-4d23-a949-5b483db53f2d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>aa7858cd-b95e-4c61-8daf-5f686eb099bb</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cda37591-788a-40d5-b761-145b2737c43b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6905823e-22d1-49c1-bb33-4f591aaec8ab</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'02/08/2022'</defaultValue>
+      <description></description>
+      <id>aa7858cd-b95e-4c61-8daf-5f686eb099bb</id>
+      <masked>false</masked>
+      <name>startDate</name>
+   </variable>
+   <variable>
+      <defaultValue>'07/30/2022'</defaultValue>
+      <description></description>
+      <id>cda37591-788a-40d5-b761-145b2737c43b</id>
+      <masked>false</masked>
+      <name>endDate</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6905823e-22d1-49c1-bb33-4f591aaec8ab</id>
+      <masked>false</masked>
+      <name>variable_1</name>
+   </variable>
+</TestCaseEntity>

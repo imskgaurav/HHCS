@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Check All</name>
+   <tag></tag>
+   <elementGuidId>07ddd71a-72ba-434e-a46b-aeb666f94398</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ctl00_MainContent_rdcLocation_DropDown']/div/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>718d3beb-b5a2-4d10-8bd2-67734084d1ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Check All</value>
+      <webElementGuid>1862fcbb-75b9-4f20-b200-6c7d11ba5e90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_MainContent_rdcLocation_DropDown&quot;)/div[@class=&quot;rcbScroll rcbWidth&quot;]/div[@class=&quot;rcbCheckAllItemsHovered&quot;]/label[1]</value>
+      <webElementGuid>c2b2ed1a-5630-437d-86fc-d6b76c8868ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_MainContent_rdcLocation_DropDown']/div/div/label</value>
+      <webElementGuid>9fb94253-58fa-447b-b75b-6688d6406e93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anderson Hospital'])[1]/preceding::label[1]</value>
+      <webElementGuid>347c9c54-93c5-497b-9d00-213c6948f9a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Children', &quot;'&quot;, 's Health Medical Center')])[1]/preceding::label[2]</value>
+      <webElementGuid>ce4c9ebc-d22f-410f-a47e-8fb4b81bb782</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Check All']/parent::*</value>
+      <webElementGuid>21de922b-928d-40d0-a303-aa7f0ae4b192</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>d70ff628-9026-46bf-afb4-d76820130003</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Check All' or . = 'Check All')]</value>
+      <webElementGuid>37e8a59a-544a-4194-a465-0de17e43e44e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

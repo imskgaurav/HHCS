@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TechEnableServices--OrgAdmin</description>
+   <name>TC33_VendorScoreCard_Vendor</name>
+   <tag>OrgAdmin</tag>
+   <comment></comment>
+   <testCaseGuid>2426b293-6b45-40a9-9019-78de588964c8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c8c8be88-2142-4b8f-b92c-0cd448d32102</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ff67b2d5-488c-4fd4-be0b-4d19392aaffc</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'07/14/2022'</defaultValue>
+      <description></description>
+      <id>c8c8be88-2142-4b8f-b92c-0cd448d32102</id>
+      <masked>false</masked>
+      <name>startDate</name>
+   </variable>
+   <variable>
+      <defaultValue>'07/27/2022'</defaultValue>
+      <description></description>
+      <id>ff67b2d5-488c-4fd4-be0b-4d19392aaffc</id>
+      <masked>false</masked>
+      <name>endDate</name>
+   </variable>
+</TestCaseEntity>

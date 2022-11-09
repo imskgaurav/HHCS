@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Candidate Open Job Screen</description>
+   <name>TC03_Candidate_OpenJobFilter_OrderType</name>
+   <tag>TechEnable Candidate Open Job Screen</tag>
+   <comment></comment>
+   <testCaseGuid>6ad3f731-a780-4ed0-a7dd-4c3cfc53af57</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dfe9d5f5-a6bb-44c7-8ee6-bb3d4d666acc</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f7c49898-3fc3-4e3e-b617-36904909da22</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8bdf8b90-fb5e-4c02-8057-974bd60001a8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c766ac28-47d1-4223-a6b7-e515f7eda35d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Traveler'</defaultValue>
+      <description></description>
+      <id>dfe9d5f5-a6bb-44c7-8ee6-bb3d4d666acc</id>
+      <masked>false</masked>
+      <name>orderTypeName</name>
+   </variable>
+   <variable>
+      <defaultValue>'334'</defaultValue>
+      <description></description>
+      <id>f7c49898-3fc3-4e3e-b617-36904909da22</id>
+      <masked>false</masked>
+      <name>jobID</name>
+   </variable>
+   <variable>
+      <defaultValue>'Open Per Diem'</defaultValue>
+      <description></description>
+      <id>8bdf8b90-fb5e-4c02-8057-974bd60001a8</id>
+      <masked>false</masked>
+      <name>orderTypeName1</name>
+   </variable>
+   <variable>
+      <defaultValue>'All Order Types'</defaultValue>
+      <description></description>
+      <id>c766ac28-47d1-4223-a6b7-e515f7eda35d</id>
+      <masked>false</masked>
+      <name>orderTypeAll</name>
+   </variable>
+</TestCaseEntity>

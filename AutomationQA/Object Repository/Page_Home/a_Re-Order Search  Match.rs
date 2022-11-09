@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Re-Order Search  Match</name>
+   <tag></tag>
+   <elementGuidId>c4febb11-8f55-4957-94ed-245965993e99</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ctl00_MenuUserCntrl1_RadMenu1']/ul/li[2]/div/ul/li[7]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4cca4054-2cf1-4842-b469-9c43f2e36a36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rmLink</value>
+      <webElementGuid>07b3b326-bfb8-459d-af27-03fbdc8cc977</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>ReOrderSearch.aspx</value>
+      <webElementGuid>33e035a4-45c4-439b-8b47-0371a0ea3a61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Re-Order Search &amp; Match</value>
+      <webElementGuid>1968c73f-0080-47a1-afb6-c751c53a4412</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_MenuUserCntrl1_RadMenu1&quot;)/ul[@class=&quot;rmRootGroup rmRoundedCorners rmShadows rmHorizontal&quot;]/li[@class=&quot;rmItem rmSelected rmExpanded&quot;]/div[@class=&quot;rmSlide&quot;]/ul[@class=&quot;rmVertical rmGroup rmLevel1&quot;]/li[@class=&quot;rmItem&quot;]/a[@class=&quot;rmLink&quot;]</value>
+      <webElementGuid>cfb1a309-b658-49cc-a354-ca28a86f808f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_MenuUserCntrl1_RadMenu1']/ul/li[2]/div/ul/li[7]/a</value>
+      <webElementGuid>4eefb85c-3aa6-4a7a-91a8-e4b93d7aafe6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Re-Order Search &amp; Match')]</value>
+      <webElementGuid>d85faacb-c778-40a6-9b54-4fc8a6281516</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manual Invoice'])[1]/following::a[1]</value>
+      <webElementGuid>b16d256e-9f1c-435a-9f7c-05306448ef34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invoice Details'])[1]/following::a[2]</value>
+      <webElementGuid>e221d5a0-0001-4172-9b94-37204c5808b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Candidate Unavailability'])[1]/preceding::a[1]</value>
+      <webElementGuid>a1cb2b17-5d81-4516-92c7-96b4b0c704b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin'])[1]/preceding::a[2]</value>
+      <webElementGuid>32e9df2d-1a6c-4517-bdb1-6c77f8dc9cbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Re-Order Search &amp; Match']/parent::*</value>
+      <webElementGuid>0ea1730f-60a6-4ce0-aaa9-baf5ea9b70dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'ReOrderSearch.aspx')]</value>
+      <webElementGuid>2601ad7b-9353-4c89-bebc-f58b5cf8f45f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/a</value>
+      <webElementGuid>52abedf7-b3f7-4dac-a0cb-0f7713ca781e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'ReOrderSearch.aspx' and (text() = 'Re-Order Search &amp; Match' or . = 'Re-Order Search &amp; Match')]</value>
+      <webElementGuid>1ab7cb15-398a-469a-9cae-6a364f3bd398</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

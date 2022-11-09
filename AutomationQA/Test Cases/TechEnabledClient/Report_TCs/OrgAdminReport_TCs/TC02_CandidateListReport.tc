@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TechEnableServices-OrgAdmin</description>
+   <name>TC02_CandidateListReport</name>
+   <tag>OrgAdminReport</tag>
+   <comment></comment>
+   <testCaseGuid>eef106c1-c7e2-409e-8b0f-ab5446b9ffd0</testCaseGuid>
+</TestCaseEntity>

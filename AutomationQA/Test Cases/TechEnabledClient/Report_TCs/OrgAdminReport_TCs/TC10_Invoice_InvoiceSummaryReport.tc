@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TechEnable Rreport -->OrgAdminReport</description>
+   <name>TC10_Invoice_InvoiceSummaryReport</name>
+   <tag>OrgAdminReport</tag>
+   <comment></comment>
+   <testCaseGuid>e61a4c93-bed2-4d03-9b03-ed88c7f58712</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2e851f83-11de-4d70-84f2-2164cf77b33e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d41d1f7a-382b-4ba1-94da-e70edb07881a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'05/05/2022'</defaultValue>
+      <description></description>
+      <id>2e851f83-11de-4d70-84f2-2164cf77b33e</id>
+      <masked>false</masked>
+      <name>startDate</name>
+   </variable>
+   <variable>
+      <defaultValue>'07/25/2022'</defaultValue>
+      <description></description>
+      <id>d41d1f7a-382b-4ba1-94da-e70edb07881a</id>
+      <masked>false</masked>
+      <name>endDate</name>
+   </variable>
+</TestCaseEntity>

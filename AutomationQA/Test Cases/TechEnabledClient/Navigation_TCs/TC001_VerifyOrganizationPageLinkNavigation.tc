@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001_VerifyOrganizationPageLinkNavigation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3b13105e-544a-4f80-b56a-7616a4c97eb5</testCaseGuid>
+</TestCaseEntity>

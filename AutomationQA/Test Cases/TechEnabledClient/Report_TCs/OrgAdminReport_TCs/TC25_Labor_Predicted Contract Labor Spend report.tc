@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TechEnableServices: OrgAdmin</description>
+   <name>TC25_Labor_Predicted Contract Labor Spend report</name>
+   <tag>Orgadmin Login</tag>
+   <comment></comment>
+   <testCaseGuid>c03cd096-a319-4e07-ace8-7a45583616b1</testCaseGuid>
+</TestCaseEntity>

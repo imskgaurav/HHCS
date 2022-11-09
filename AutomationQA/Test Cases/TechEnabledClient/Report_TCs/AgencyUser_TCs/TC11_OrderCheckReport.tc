@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC11_OrderCheckReport</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>44692be5-417d-4d24-b021-a25519857c0a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>10088acc-9cd6-49b7-a937-23a1cc2ac3e0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3e924f50-9ebd-49d0-9ef9-425b851b1f63</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b95abb50-b4f0-48c5-be56-ddd273305d66</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b6051342-3e22-427f-af69-c913a499b1de</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>02901952-de15-4de3-91bd-55367cce22c1</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3852e3a3-6dca-4a3a-804f-1a94c2edd540</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Indiana - LocationIN1'</defaultValue>
+      <description></description>
+      <id>10088acc-9cd6-49b7-a937-23a1cc2ac3e0</id>
+      <masked>false</masked>
+      <name>locationName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Department1IN1'</defaultValue>
+      <description></description>
+      <id>3e924f50-9ebd-49d0-9ef9-425b851b1f63</id>
+      <masked>false</masked>
+      <name>departmentName</name>
+   </variable>
+   <variable>
+      <defaultValue>'1 - Indiana/Traveler-01'</defaultValue>
+      <description></description>
+      <id>b95abb50-b4f0-48c5-be56-ddd273305d66</id>
+      <masked>false</masked>
+      <name>jobID</name>
+   </variable>
+   <variable>
+      <defaultValue>'Munson - LocationM1'</defaultValue>
+      <description></description>
+      <id>b6051342-3e22-427f-af69-c913a499b1de</id>
+      <masked>false</masked>
+      <name>locationName1</name>
+   </variable>
+   <variable>
+      <defaultValue>'Department 1'</defaultValue>
+      <description></description>
+      <id>02901952-de15-4de3-91bd-55367cce22c1</id>
+      <masked>false</masked>
+      <name>departmentName1</name>
+   </variable>
+   <variable>
+      <defaultValue>'14 - CTP\\Munson'</defaultValue>
+      <description></description>
+      <id>3852e3a3-6dca-4a3a-804f-1a94c2edd540</id>
+      <masked>false</masked>
+      <name>jobID1</name>
+   </variable>
+</TestCaseEntity>
